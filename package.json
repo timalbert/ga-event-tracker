@@ -1,0 +1,16 @@
+{
+  "name": "ga-event-tracker",
+  "version": "1.0.0",
+  "description": "Simple ga tracker",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "authors": [
+    "Tim Albert <timothy.m.albert@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">=1.11.3"
+  }
+}

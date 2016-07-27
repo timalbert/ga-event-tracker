@@ -1,0 +1,21 @@
+{
+  "name": "ga-event-tracker",
+  "version": "1.0.0",
+  "authors": [
+    "Tim Albert <timothy.m.albert@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.11.3"
+  }
+}
